@@ -4,4 +4,4 @@ Full app to input, display, and save, different acoustic parameters of a given d
 
 ## Air transmission noise
 
-This software calculates R, STC, Dn and Dnt and their respectives C and Ctr. The input is the apropiate mesuarements according to either ISO 140-4 or ISO 16283-1. The GUI display the result and the user can expoert the data in a PDF format report and in excel.
+This software calculates R, STC, Dn and Dnt and their respective C and Ctr. The input is the appropriate measurements according to either ISO 140-4 or ISO 16283-1. The GUI displays the result and the user can export the data in a PDF report and in Excel.
