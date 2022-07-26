@@ -1,5 +1,5 @@
 # Acoustic-Data-GUI
-Full app to input, display, and save, different acoustic parameters of a given data. 
+Full app to input, display, and save, different acoustic parameters of a given data. All of them are required projects for the subject Acústica y Psicoacústica II.
 
 
 ## Air transmission noise
