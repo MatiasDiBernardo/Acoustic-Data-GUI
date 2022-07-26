@@ -8,7 +8,7 @@ This software calculates R, STC, Dn and Dnt and their respective spectral coeffi
 
 ## Flanking noise transmission
 
-This software returns the transmission coefficients, taking into account the direct sound and all the flanks in two congruent rooms. The input data requires the dimensions of both rooms, the type of connections between the rooms and measurements in situ of the L1 and TR.
+This software returns the noise transmission coefficient, taking into account the direct sound and all the flanks in two congruent rooms. The input data requires the dimensions of both rooms, the type of connections between the rooms and measurements in situ of the L1 and RT.
 
 ## Simple Wall Acoustic Isolation
 
